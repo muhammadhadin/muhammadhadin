@@ -15,8 +15,11 @@
     <img src="https://img.shields.io/badge/🏢_Yayasan_Cahaya_Sunnah-Active-white?style=for-the-badge&logo=community" alt="Yayasan">
   </a>
 </p>
-- 🕌 **Al-Amanah Information System:** Developing a dedicated web platform for Masjid Al-Amanah Tarumajaya.
-- 💻 **Database Management:** Experienced in CRUD operations using PHP and MySQL.
+### 🚀 Featured Projects
+- 🕌 **Al-Amanah Info System:** Developing a dedicated web platform for Masjid Al-Amanah Tarumajaya.
+- 💇‍♂️ **Barber-Sync Booking System:** A web-based barbershop management system featuring User Authentication, Service Selection, and Real-time Scheduling/Booking.
+- 📸 **Photo-Social Platform:** A Facebook-inspired image sharing site with User Albums, Social Interactions, and full CRUD functionality for media management.
+- 📚 **Library Management System (UKK Project):** An intensive library circulation system featuring Member Registration, Book Inventory, and Transaction Logging (Borrow/Return).
 
 ---
 
@@ -26,7 +29,6 @@
     <img src="https://skillicons.dev/icons?i=php,mysql,html,css,js,py,git,vscode,bash" alt="Tech Stack" />
   </a>
 </p>
-
 ---
 
 ### 📊 GitHub Stats & Trophy
