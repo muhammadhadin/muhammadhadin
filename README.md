@@ -5,7 +5,7 @@
 
 ---
 
-### 🚀 Projects & Focus
+### Projects & Focus
 <p align="left">
   <a href="https://alamanah-tarumajaya.com" target="_blank">
     <img src="https://img.shields.io/badge/🕌_Al--Amanah_Info_System-Active-0F3D2E?style=for-the-badge&logo=mosque" alt="Al-Amanah">
@@ -18,15 +18,15 @@
 
 ---
 
-### 🚀 Featured Projects
-- 🕌 **Al-Amanah Info System:** Developing a dedicated web platform for Masjid Al-Amanah Tarumajaya.
-- 💇‍♂️ **Barber-Sync Booking System:** A web-based barbershop management system featuring User Authentication, Service Selection, and Real-time Scheduling/Booking.
-- 📸 **Photo-Social Platform:** A Facebook-inspired image sharing site with User Albums, Social Interactions, and full CRUD functionality for media management.
-- 📚 **Library Management System (UKK Project):** An intensive library circulation system featuring Member Registration, Book Inventory, and Transaction Logging (Borrow/Return).
+### Featured Projects
+- **Al-Amanah Info System:** Developing a dedicated web platform for Masjid Al-Amanah Tarumajaya.
+- **Barber-Sync Booking System:** A web-based barbershop management system featuring User Authentication, Service Selection, and Real-time Scheduling/Booking.
+- **Photo-Social Platform:** A Facebook-inspired image sharing site with User Albums, Social Interactions, and full CRUD functionality for media management.
+- **Library Management System (UKK Project):** An intensive library circulation system featuring Member Registration, Book Inventory, and Transaction Logging (Borrow/Return).
 
 ---
 
-### 🛠 Tech Stack (Animated Icons)
+### Tech Stack (Animated Icons)
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=php,mysql,html,css,js,py,git,vscode,bash" alt="Tech Stack" />
@@ -34,7 +34,7 @@
 </p>
 ---
 
-### 📊 GitHub Stats & Trophy
+### GitHub Stats & Trophy
 <p align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muhammadhadin&theme=tokyonight" alt="GitHub Stats" />
 </p>
@@ -45,7 +45,7 @@
 
 ---
 
-### 📫 Connect with me:
+### Connect with me:
 <p align="center">
   <a href="https://www.linkedin.com/in/muhammad-hadin-aditya-utama-935739360">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
