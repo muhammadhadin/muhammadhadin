@@ -1,24 +1,51 @@
 # Hi there, I'm Muhammad Hadin Aditya Utama 👋
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0F3D2E&width=435&lines=Web+Developer;PHP+%26+MySQL+Specialist;Digital+Data+Administrator;Based+in+Bekasi%2C+Indonesia" alt="Typing SVG" />
+</p>
 
-An aspiring **Web Developer** and **Data Administration Specialist** based in Bekasi Regency, Indonesia. I am passionate about building functional, database-driven web applications and managing digital information systems.
+---
 
 ### 🚀 Projects & Focus
+<p align="left">
+  <img src="https://img.shields.io/badge/🕌_Al--Amanah_Info_System-Active-0F3D2E?style=for-the-badge&logo=mosque" alt="Al-Amanah">
+  <img src="https://img.shields.io/badge/🏢_Yayasan_Cahaya_Sunnah-Active-white?style=for-the-badge&logo=community" alt="Yayasan">
+</p>
+
 - 🕌 **Al-Amanah Information System:** Developing a dedicated web platform for Masjid Al-Amanah Tarumajaya.
-- 🏢 **Yayasan Cahaya Sunnah Ummah:** Managing web-based solutions and digital presence for community foundations.
 - 💻 **Database Management:** Experienced in CRUD operations using PHP and MySQL.
 
-### 🛠 Tech Stack
-- **Languages:** PHP, Python (Basic), JavaScript
-- **Frontend:** HTML5, CSS3 (Layouting & Styling)
-- **Backend & Database:** MySQL, Localhost environments
-- **Tools:** VS Code, Git/GitHub, Office Suite (Advanced Excel)
+---
 
-### 📊 GitHub Stats
-![Hadin's GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammadhadin&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadhadin&layout=compact&theme=tokyonight)
+### 🛠 Tech Stack (Animated Icons)
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=php,mysql,html,css,js,py,git,vscode,bash" alt="Tech Stack" />
+  </a>
+</p>
+
+---
+
+### 📊 GitHub Stats & Trophy
+<p align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muhammadhadin&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadhadin&layout=compact&theme=tokyonight&hide=cpp,c" alt="Top Langs" />
+</p>
 
 ---
 
 ### 📫 Connect with me:
-- 💼 [LinkedIn](https://www.linkedin.com/in/muhammad-hadin-aditya-utama-935739360)
-- 📸 [Instagram](https://www.instagram.com/mhmmdhadeen)
+<p align="center">
+  <a href="https://www.linkedin.com/in/muhammad-hadin-aditya-utama-935739360">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://www.instagram.com/mhmmdhadeen">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=muhammadhadin&color=0F3D2E&style=flat-square&label=Profile+Views" alt="Profile Views" />
+</p>
