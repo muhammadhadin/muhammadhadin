@@ -7,10 +7,14 @@
 
 ### 🚀 Projects & Focus
 <p align="left">
-  <img src="https://img.shields.io/badge/🕌_Al--Amanah_Info_System-Active-0F3D2E?style=for-the-badge&logo=mosque" alt="Al-Amanah">
-  <img src="https://img.shields.io/badge/🏢_Yayasan_Cahaya_Sunnah-Active-white?style=for-the-badge&logo=community" alt="Yayasan">
-</p>
+  <a href="https://alamanah-tarumajaya.com" target="_blank">
+    <img src="https://img.shields.io/badge/🕌_Al--Amanah_Info_System-Active-0F3D2E?style=for-the-badge&logo=mosque" alt="Al-Amanah">
+  </a>
 
+  <a href="https://yayasan-cahaya-sunnah-ummah.com" target="_blank">
+    <img src="https://img.shields.io/badge/🏢_Yayasan_Cahaya_Sunnah-Active-white?style=for-the-badge&logo=community" alt="Yayasan">
+  </a>
+</p>
 - 🕌 **Al-Amanah Information System:** Developing a dedicated web platform for Masjid Al-Amanah Tarumajaya.
 - 💻 **Database Management:** Experienced in CRUD operations using PHP and MySQL.
 
