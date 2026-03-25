@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there, I'm Muhammad Hadin Aditya Utama 👋
 
-<!--
-**muhammadhadin/muhammadhadin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+An aspiring **Web Developer** and **Data Administration Specialist** based in Bekasi Regency, Indonesia. I am passionate about building functional, database-driven web applications and managing digital information systems.
 
-Here are some ideas to get you started:
+### 🚀 Projects & Focus
+- 🕌 **Al-Amanah Information System:** Developing a dedicated web platform for Masjid Al-Amanah Tarumajaya.
+- 🏢 **Yayasan Cahaya Sunnah Ummah:** Managing web-based solutions and digital presence for community foundations.
+- 💻 **Database Management:** Experienced in CRUD operations using PHP and MySQL.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack
+- **Languages:** PHP, Python (Basic), JavaScript
+- **Frontend:** HTML5, CSS3 (Layouting & Styling)
+- **Backend & Database:** MySQL, Localhost environments
+- **Tools:** VS Code, Git/GitHub, Office Suite (Advanced Excel)
+
+### 📊 GitHub Stats
+![Hadin's GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammadhadin&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadhadin&layout=compact&theme=tokyonight)
+
+---
+
+### 📫 Connect with me:
+- 💼 [LinkedIn](https://www.linkedin.com/in/muhammad-hadin-aditya-utama-935739360)
+- 📸 [Instagram](https://www.instagram.com/mhmmdhadeen)
